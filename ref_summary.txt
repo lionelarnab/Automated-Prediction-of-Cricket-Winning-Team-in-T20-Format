@@ -1,0 +1,4 @@
+ref[1] they use prevoious match fixtures to predict winner or loser for ODI game.
+ref [7] they also use previous match performance to predict outcome while game in progress.
+ref [9] analised 500 team and player performances. Uder this performances, they took satistics of  previous winning history of each team.
+***ref[11] use ICC t20 ranking for each team to predict outcome during ongoing T20 match prediction
